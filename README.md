@@ -1,7 +1,13 @@
-<<<<<<< HEAD
+
 # 📚 RAG Document Assistant
 
 ### AI-Powered Multi-Document Question Answering System
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![LangChain](https://img.shields.io/badge/LangChain-latest-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.38-red)
+![FAISS](https://img.shields.io/badge/FAISS-1.8.0-orange)
+![Groq](https://img.shields.io/badge/LLM-Groq%20LLaMA3-purple)
 
 ## 🎯 What is This?
 
