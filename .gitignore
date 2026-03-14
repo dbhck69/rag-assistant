@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+env/
+
+# PDF files
+*.pdf
+
+# Data/index
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env

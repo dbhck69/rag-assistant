@@ -1,0 +1,13 @@
+# requirements.txt — let pip resolve compatible versions
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-text-splitters
+faiss-cpu
+pypdf
+python-dotenv
+streamlit
+tiktoken
+sentence-transformers
+google-generativeai
